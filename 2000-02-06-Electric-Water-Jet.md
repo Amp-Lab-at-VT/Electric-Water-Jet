@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Hao Xue
-William Gerhard
+author: Hao Xue, William Gerhard
 show_sidebar: false
 ---
 
