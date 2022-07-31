@@ -21,7 +21,7 @@ Hao Xue
 William Gerhard
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Electric-Water-Jet"" >Electric-Water-Jet</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Electric-Water-Jet" >Electric-Water-Jet</a>
 
 ## Photo
 
